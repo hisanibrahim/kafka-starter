@@ -1,0 +1,23 @@
+{
+  "name": "kafka-starter",
+  "version": "1.0.0",
+  "description": "- Knowledge   - Node.JS Intermediate level   - Experience with designing distributed systems - Tools   - Node.js: [Download Node.JS](https://nodejs.org/en)   - Docker: [Download Docker](https://www.docker.com)   - VsCode: [Download VSCode](https://code.visualstudio.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisanibrahim/kafka-starter.git"
+  },
+  "keywords": [],
+  "author": "Hisan Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hisanibrahim/kafka-starter/issues"
+  },
+  "homepage": "https://github.com/hisanibrahim/kafka-starter#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
